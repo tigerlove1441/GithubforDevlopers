@@ -1,3 +1,3 @@
-# GithubforDevlopers
+# Github for Devlopers
 # Hello World
 สวัสดีครับไทยเเลนด์
